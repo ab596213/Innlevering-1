@@ -25,8 +25,7 @@ public class OppgB4 {
 		else if (inntekt >= 1021550)
 			System.out.println("Trinnskatt: " + inntekt*0.162 + " kr");
 	
-		
-		
+		else if (ijowdwoiqdj)
 	}
 
 }
